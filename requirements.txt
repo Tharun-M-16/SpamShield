@@ -3,4 +3,3 @@ pandas
 plotly
 scikit-learn
 numpy
-pickle5
